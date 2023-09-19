@@ -6,21 +6,21 @@ Given an integer array `nums`, return `true` if any value appears at least twice
 
 Example 1:
 
-  Input: `nums = [1,2,3,1]`
-  Output: `true`
+&nbsp &nbsp &nbsp &nbsp Input: `nums = [1,2,3,1]`
+&nbsp &nbsp &nbsp &nbsp Output: `true`
 
 Example 2:
 
-  Input: `nums = [1,2,3,4]`
-  Output: `false`
+&nbsp &nbsp &nbsp &nbsp Input: `nums = [1,2,3,4]`
+&nbsp &nbsp &nbsp &nbsp Output: `false`
 
 Example 3:
 
-  Input: `nums = [1,1,1,3,3,4,3,2,4,2]`
-  Output: `true`
+&nbsp &nbsp &nbsp &nbsp Input: `nums = [1,1,1,3,3,4,3,2,4,2]`
+&nbsp &nbsp &nbsp &nbsp Output: `true`
  
 
 Constraints:
   
-  `1 <= nums.length <= 105`
-  `-109 <= nums[i] <= 109`
+&nbsp `1 <= nums.length <= 105`
+&nbsp `-109 <= nums[i] <= 109`
