@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
     public int[] productExceptSelf(int[] nums) {
         /*
             Input: array of integer nums
